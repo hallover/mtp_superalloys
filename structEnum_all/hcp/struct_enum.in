@@ -1,0 +1,12 @@
+hcp
+bulk
+ 1.00     0.00000000            0.0000000                 # a1 parent lattice vector
+ 0.50     0.866025403784439     0.0000000                 # a2 parent lattice vector
+ 0.00     0.00000000            1.6329931618554521        # a3 parent lattice vector
+ 3 -nary case
+    2 # Number of points in the multilattice
+ 0.0000000      0.0000000      0.00000000000    0/1/2   # d01 d-vector
+ 0.5000000      0.28867513459  0.81649658093    0/1/2   # second point
+    1 5    # Starting and ending cell sizes for search
+0.10000000E-06 # Epsilon (finite precision parameter)
+Full
